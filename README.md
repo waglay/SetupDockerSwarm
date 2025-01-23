@@ -59,9 +59,9 @@ docker swarm init --advertise-addr 192.168.33.10
 
 - Now use the swarm command to check the status of the nodes.
   
-  ```
-  docker node ls
-  ```
+```
+docker node ls
+```
   
 <img width="570" alt="Screen Shot 2025-01-23 at 3 44 18 PM" src="https://github.com/user-attachments/assets/b21462bb-0394-47c3-b210-29289f383b37" />
 
